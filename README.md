@@ -69,6 +69,16 @@ Run with medium sample model (`tests/test_medium.pnml`):
 python3 main.py --input tests/test_medium.pnml
 ```
 
+## Contributors
+
+Developed by **Group 35** (Class CC02) — Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology (HCMUT - VNU-HCM):
+
+| Name | Student ID | Role / Contributions |
+| :--- | :---: | :--- |
+| **Nguyễn Trung Vĩnh** | 2453438 | Petri net modeling & experimental evaluation |
+| **Phạm Vũ Khôi Nguyên** | 2412372 | Algorithmic design, BDD & ILP implementation |
+| **Lê Minh Nhật** | 2452891 | PNML parser, verification testing & documentation |
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
