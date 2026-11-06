@@ -27,10 +27,11 @@ This project implements formal verification and optimization techniques for conc
 ├── tests/
 │   ├── test_small.pnml                 # Resource allocation model (contains deadlock)
 │   └── test_medium.pnml                # Fork-join workflow model (deadlock-free)
-├── specs/
-│   └── MM-251-Assignment (v0.0.3).pdf  # Assignment specification document
-├── report/
-│   └── MM-251-Assignment-Report.pdf    # Technical report & benchmark results
+├── docs/
+│   ├── report/
+│   │   └── MM-251-Assignment-Report.pdf  # Technical report & benchmark results
+│   └── specs/
+│       └── MM-251-Assignment (v0.0.3).pdf # Assignment specification document
 ├── .gitignore                          # Git ignore rules (including venv/ and caches)
 ├── LICENSE                             # MIT License
 ├── README.md                           # Documentation
